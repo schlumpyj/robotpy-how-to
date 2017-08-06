@@ -1,4 +1,6 @@
-## Make sure the laptop is setup before installing the robot software ##
+## Robot Install ##
+
+----- Make sure the laptop is setup before installing the robot software ----
 
 1. Now connect to the robot’s WiFi network and type `py installer.py install-robotpy`
 
