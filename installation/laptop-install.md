@@ -1,4 +1,6 @@
-***********Laptop Setup***********************
+
+### Be Warned that these instructions may not work due to updates. ###
+
 1. First, download Python 3.x.x (And 2.x.x) from https://www.python.org/downloads/
 2. Install the file
 3. Next, download RobotPy Zip file from https://github.com/robotpy/robotpy-wpilib
