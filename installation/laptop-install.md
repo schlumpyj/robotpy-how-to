@@ -1,5 +1,7 @@
 
-## Be aware that these instructions may not work due to updates. ###
+## Latop Install ##
+
+----- Be aware that these instructions may not work due to updates. -----
 
 1. First, [download Python 3.x.x (And 2.x.x)](https://www.python.org/downloads/)
 
