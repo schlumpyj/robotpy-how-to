@@ -14,7 +14,7 @@ There are four files in here.
 
 If there are problems or things not addressed, try getting help in the following order:
 
-1. Go to [RobotPy Docs](robotpy.readthedocs.io)
+1. Go to [RobotPy Docs](https://robotpy.readthedocs.io)
 
 2. Search [Chief Delphi](https://www.chiefdelphi.com/forums/search.php)
 
