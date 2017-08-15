@@ -7,7 +7,7 @@
 
 2. Install the file
 
-3. Next, [download RobotPy Zip file](https://github.com/robotpy/robotpy-wpilib)
+3. Next, [download the latest RobotPy release Zip file](https://github.com/robotpy/robotpy-wpilib/releases)
 
 4. Extract the Zip file anywhere you would like (/Downloads is the standard place)
 

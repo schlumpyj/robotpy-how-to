@@ -2,11 +2,11 @@
 
 ----- Make sure the laptop is setup before installing the robot software ----
 
-1. Now connect to the robot’s WiFi network and type `py installer.py install-robotpy`
+1. Go to `Downloads/robotpy-VERSION_NUMBER/robotpy-VERSION_NUMBERs/` in the FILE EXPLORER where the VERSION_NUMBER will be like 2017.1.2
 
-2. Go to `Downloads/robotpy-wpilib-utilities/robotpy-wpilib-utilities/` in the FILE EXPLORER. 
+2. Now connect to the robot’s WiFi network and type `py -3 installer.py install-robotpy`
 
-3. Make a new folder that says something like `XXXXCode` where XXXX is like 2018
+3. Make a new folder that says something like `XXXXCode` where XXXX is like 2018 anywhere on the computer, but Desktop is a good place for it (easy to find).
 
 4. Find `IDLE` on the computer and click enter
 
@@ -16,8 +16,8 @@
 
 7. Save As the file to your XXXXCode directory you just created (Only robot.py as a saved file name will deploy to the robot, any other names will not be!)
 
-8. To upload the code, go to the code folder, and under command do `py robot.py deploy` while in the directory of your code in the command prompt
+8. To upload the code, go to the code folder, and under command do `py -3 robot.py deploy` while in the directory of your code in the command prompt
 
 9. If the Deploy was successful, you should be able to drive the robot as needed
 
-10. To test code without deploying, just do `py robot.py sim` to run the nice simulator to test your code.
+10. To test code without deploying to the robot, just do `py robot.py sim` to run the nice simulator to test your code.
