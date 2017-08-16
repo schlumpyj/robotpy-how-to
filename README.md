@@ -2,6 +2,8 @@
 
 This guide should have everything you need to get started with the basics of Python and programming in FRC.
 
+*All code examples have been tested and work as intended.*
+
 **If you get stuck, follow this order when trying to figure out what is wrong.**
 
 If there are problems or things not addressed, try getting help in the following order:
