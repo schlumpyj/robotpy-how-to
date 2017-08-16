@@ -19,8 +19,8 @@ class MyRobot(wpilib.IterativeRobot): # <---- IternativeRobot means that it loop
 
         self.xboxController = wpilib.Joystick(0) # <--- joystick, does not have to be an xbox controller
 
-        self.components = {
-            'drive': self.robot_drive
+        self.components = { # Add all the objects you are going to want in autonomous like sensors, the robot drive, etc.
+            'drive': self.robot_drive #give it a nickname as well. In this case, we "nicknamed" self.robot_drive as 'drive' so in auto you will do self.drive
         }
 
         self.automodes = AutonomousModeSelector('auto-modes', self.components) #pass in the folder with all your auto modes and the components you want in auto

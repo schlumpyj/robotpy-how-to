@@ -1,4 +1,4 @@
-## Basic Auto and Chooser##
+## Basic Auto and Chooser ##
 
 This is a basic usage of how we make autonomous modes. The code has a selector that is sent back to the laptop where the driver can select which mode to run. This worked great in the 2017 and never failed us. This does require you to have a web server running on the laptop to select it, however.
 
