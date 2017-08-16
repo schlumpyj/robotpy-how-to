@@ -21,7 +21,7 @@
 
 8. After that, navigate to the command prompt(or terminal if on Mac)
 
-9. Type in `cd Downloads/robotpy-wpilib-utilities/robotpy-wpilib-utilities/installer/`
+9. Type in `cd Downloads/robotpy-VERSION_NUMBER/robotpy-VERSION_NUMBER/`
 *The directory may change depending on platform or version*
 
 10. Now simply type `py installer.py download-robotpy` or `python3 installer.py download-robotpy` if you are on a Mac

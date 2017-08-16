@@ -8,7 +8,7 @@ The RoboRIO RobotPy installation and the Laptop PyFRC Laptop installation is usu
 
 1. [Download the latest RobotPy release Zip file](https://github.com/robotpy/robotpy-wpilib/releases)
 
-2. Extract and go to where it extracted. Most likely 1. Go to `Downloads/robotpy-VERSION_NUMBER/robotpy-VERSION_NUMBERs/` where the VERSION_NUMBER will be like 2017.1.2
+2. Extract and go to where it extracted. Most likely 1. Go to `Downloads/robotpy-VERSION_NUMBER/robotpy-VERSION_NUMBER/` where the VERSION_NUMBER will be like 2017.1.2
 
 2. Connect to the robot’s WiFi network and type `py -3 installer.py install-robotpy`
 
