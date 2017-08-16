@@ -14,9 +14,11 @@ Templates in the directory include:
 
 4. Basic Webcam
 
-5. Advanced Programming Practices
+5. Basic Web Server and Installation
 
-6. Common Problems and Fixes Doc
+6. Advanced Programming Practices
+
+7. Common Problems and Fixes Doc
 
 #### There is also the complete code from previous years to look at. ####
 
