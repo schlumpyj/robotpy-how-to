@@ -16,9 +16,11 @@ Templates in the directory include:
 
 5. Basic Web Server and Installation
 
-6. Advanced Programming Practices
+6. Networktables
 
-7. Common Problems and Fixes Doc
+7. Advanced Programming Practices
+
+8. Common Problems and Fixes Doc
 
 #### There is also the complete code from previous years to look at. ####
 
