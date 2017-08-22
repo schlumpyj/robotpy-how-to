@@ -20,6 +20,6 @@
 
 9. To upload the code, go to the code folder, and under command do `py -3 robot.py deploy` while in the directory of your code in the command prompt
 
-10. If the Deploy was successful, you should be able to drive the robot as needed
+10. If the Deploy was successful, you should be able to drive the robot as needed (assuming you uploaded drivable code).
 
 11. To test code without deploying to the robot, just do `py robot.py sim` to run the nice simulator to test your code.

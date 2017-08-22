@@ -14,4 +14,8 @@
 
 7. Follow [Robot Instructions](https://github.com/bb20basketball/robotpy-how-to/blob/master/installation/robot-install.md)
 
-8. Get Programming!
+8. Change the roboRIO to a static IP address. 10.44.80.2 is the standard.  Simply go to the roboRIO web interface ([which looks like this](https://wpilib.screenstepslive.com/s/4485/m/24166/l/262266-roborio-webdashboard)) by first going to `roborio-4480-frc.local` and then navigating to the network tab. You will have to login as admin with no password just like SSH. Write the 10.44.80.2 on a piece of tape and put it on the physical roboRIO so that you remember the address and so FTA's know that you are using static addresses rather than the inferior dynamic IPs.
+
+  From then on, you can more quickly access the roboRIO web interface by going to 10.44.80.2. You can also use this address for your own HTML dashboard.
+
+9. **Get Programming!**

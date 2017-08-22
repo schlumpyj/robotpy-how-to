@@ -20,7 +20,7 @@ Templates in the directory include:
 
 7. Advanced Programming Practices
 
-8. Common Problems and Fixes Doc
+8. Common Problems and Fixes
 
 #### There is also the complete code from previous years to look at. ####
 
