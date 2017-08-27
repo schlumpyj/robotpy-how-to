@@ -14,7 +14,7 @@
 5. [Download “pip for windows”](https://sites.google.com/site/pydatalog/python/pip-for-windows)     
 *If you are on Mac, you should already have pip installed.*
 
-6. Under the interpreter - Browse to: `C:/Python27/python.exe`
+6. Under the interpreter - Browse to: `C:/Python27/python.exe`.
 
 7. Run the file, type in `pip install pyfrc`
 *If on Mac, just use that same command in the terminal.*
