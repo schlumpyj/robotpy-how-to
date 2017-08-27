@@ -1,5 +1,5 @@
-
-## Latop Install ##
+﻿
+## Laptop Install ##
 
 ----- Be aware that these instructions may not work due to updates. -----
 
